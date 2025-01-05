@@ -1,0 +1,2 @@
+# aola_xml_extract
+根据奥拉星版本xml提取活动链接并自动打包成mya封包
